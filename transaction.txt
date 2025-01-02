@@ -1,0 +1,26 @@
+
+arkay,deposit,1000.0,2024-12-25 21:39:40
+arkay,withdraw,500.0,2024-12-25 21:39:57
+arkay,deposit,1500.0,2024-12-25 22:08:05
+arkay,withdraw,500.0,2024-12-25 22:08:20
+arkay,withdraw,500.0,2024-12-26 07:38:38
+arkay,deposit,1000.0,2024-12-26 08:27:07
+arkay,withdraw,2000.0,2024-12-26 08:27:30
+arkay,withdraw,2000.0,2024-12-26 08:28:33
+arkay,withdraw,250.0,2024-12-26 08:56:47
+arkay,deposit,750.0,2024-12-26 09:00:11
+arkay,withdraw,500.0,2024-12-26 09:02:58
+arkay,deposit,500.0,2024-12-26 09:05:56
+arkay,withdraw,500.0,2024-12-26 09:10:19,__Transaction successfull 
+arkay,deposit,1000.0,2024-12-26 10:04:12
+arkay,deposit,1000.0,2024-12-26 10:05:59, **Transaction successfull** 
+arkay,withdraw,1.0,2024-12-26 10:06:07,**Transaction successfull** 
+arkay,withdraw,543.0,2024-12-30 08:36:39,**Transaction successfull** 
+Priya,deposit,12345.0,2024-12-31 10:46:59, **Transaction successfull** 
+Priya,withdraw,2000.0,2024-12-31 10:47:41,**Transaction successfull** 
+arkay,deposit,1000.0,2024-12-31 10:50:43, **Transaction successfull** 
+Priya,deposit,100000.0,2024-12-31 11:03:49, **Transaction successfull** 
+ish,deposit,100000.0,2024-12-31 12:42:23, **Transaction successfull** 
+ish,withdraw,100.0,2024-12-31 12:42:33,**Transaction successfull** 
+1234,deposit,123.0,2024-12-31 12:51:11, **Transaction successfull** 
+ish,deposit,12.0,2024-12-31 12:51:50, **Transaction successfull** 
